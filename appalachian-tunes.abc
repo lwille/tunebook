@@ -1,0 +1,40 @@
+X: 1
+T:Lonesome Moonlight Waltz
+R:Waltz
+M:3/4
+L:1/8
+N:Bill Monroe
+N:https://tunearch.org/wiki/Lonesome_Moonlight_Waltz
+K:Dm
+A2|:\
+"Dm"{c}d3f(3dcA|{c}d3f(3dcA|"F"c3d/2c/2(3A-AF|"Dm"D6|
+"Dm"{c}d3f(3dcA|{c}d3f(3dcA|"G"G3^F(3G-"E7"G^G|"A"A6|
+"Dm"{c}d3f(3dcA|{c}d3f(3dcA|"F"c3d/2c/2(3A-AF|"Dm"D6|
+"C"{B}c3d/2c/2(3A-AG|{B}c3d/2c/2(3AFG|[1"F"F3F(3F-FG|"A"A6:|[2"F7"F4FE||D3A,DF|G2F2GF|
+A3FAd|c4-cA|G3^FGA|=B2G2Bd|[c6E6]|[^c6E6]|
+{c}d3f(3dcA|{c}d3f(3dcA|c3d/2c/2(3A-AF|D6|c3d/2c/2(3A-AG|c3d/2c/2(3AFG|F6|F6||
+z4[f2d2]||[a4f4][a2f2]|[a2f2]-[f4d4]|[e3c3]d/2c/2(3A-AF|[F4D4][f2d2]|[a4
+f4][a2f2]|[a2f2]-[f4d4]|G3^F(3G-G^G|A6||A4[f2d2]|
+[a4f4][a2f2]|[a2f2]-[f4d4]|[e3c3]d/2c/2(3A-AF|[F6D6]|c3d/2c/2(3A-AG|c3d/
+2c/2(3AFG|F6|F6|]
+
+X:1
+T:Lonesome Moonlight Waltz
+O:Bluegrass
+B:from mandolin tablature by John Baldry
+N:http://www.btinternet.com/~john.baldry/mando/tabgif/moonlt/moonlt.html
+Z:ABC by Moshe Braner
+R:waltz
+Q:1/4=110
+M:3/4
+L:1/8
+K:F
+A2 |\
+"Dm"{c}d2-df (3dcA | {c}d2-df dc | "F"A2-Ac (3AGF | "Dm"[A,4F]-[A,F]A |
+"Dm"{c}d2-df (3dcA | {c}d2-df dA | "G"[G2B]-G^F "E7"G^G | "A"[A6^c] |
+"Dm"{c}d2-df (3dcA | {c}d2-df dc | "F"A2-Ac (3AGF | "Dm"[A,4F]-[A,F]A |
+"C"{B}c2-cc (3G^GA | {B}c2-c{^c}d GA/G/ | "F"F6-|F2 "F7"[A,F][A,F] [A,F][CF] ||
+"Bb"D4 (3DFG | F4 G2 | "F"A2-AF Ad | c4 A2 |
+"G"[G2B]-GG Bd | B[GB]-[G4B] | "C"[c2e]-[ce]c (3cec | "A7"[^c6e] |
+"Dm"{c}d2-df (3dcA | {c}d2-df dc | "F"A2-Ac (3AGF | "Dm"[A,4F]-[A,F]A |
+"C"{B}c2-cc (3G^GA | {B}c2-c{^c}d GA/G/ | "F"F2-FF (3{G}Acd | [A6f] ||
